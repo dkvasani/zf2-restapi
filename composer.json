@@ -1,5 +1,5 @@
 {
-    "name": "zf2/restapi",
+    "name": "daa/restapi",
     "description": "Create restapi and give authentication to route",
     "type": "library",
     "authors": [
