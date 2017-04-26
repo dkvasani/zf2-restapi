@@ -1,5 +1,5 @@
 {
-    "name": "daa/restapi",
+    "name": "daanvb/restapi",
     "description": "Create restapi and give authentication to route",
     "type": "library",
     "authors": [
