@@ -10,6 +10,11 @@
     ],
     "require": {
          "firebase/php-jwt": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "daanvb/restapi\\": "daanvb/restapi/RestApi/src/"
+        }
     }
 
 }
